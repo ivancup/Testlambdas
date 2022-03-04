@@ -16,6 +16,6 @@ public class Function
     /// <returns></returns>
     public string FunctionHandler(string input, ILambdaContext context)
     {
-        return input.ToUpper() + "Nadnjs sd dfdfswdc d";
+        return input.ToUpper() + "Nadnjs sd dfdfs sd wdc d";
     }
 }
